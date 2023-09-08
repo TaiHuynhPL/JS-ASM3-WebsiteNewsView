@@ -8,3 +8,5 @@
 
 - Link demo web:
 https://taihuynhpl.github.io/JS-ASM3-WebsiteNewsView/
+
+- Instructions to run the program on local: open file index.html
